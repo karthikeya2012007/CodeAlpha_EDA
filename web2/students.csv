@@ -1,0 +1,11 @@
+Student_ID,Name,Gender,Age,Department,CGPA,Attendance,Study_Hours,Placement
+101,Alice,Female,20,CSE,8.9,92,4,Yes
+102,Bob,Male,21,ECE,7.5,85,3,No
+103,Charlie,Male,22,CSE,9.1,95,5,Yes
+104,David,Male,20,EEE,6.8,78,2,No
+105,Eva,Female,21,IT,8.2,88,4,Yes
+106,Frank,Male,23,CSE,7.9,81,3,No
+107,Grace,Female,22,ECE,9.3,97,6,Yes
+108,Henry,Male,20,IT,7.1,80,2,No
+109,Ivy,Female,21,CSE,8.7,91,5,Yes
+110,Jack,Male,22,EEE,6.5,75,2,No
